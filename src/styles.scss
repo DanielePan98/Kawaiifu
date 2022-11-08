@@ -2,3 +2,9 @@
 
 /* Importing Bootstrap SCSS file. */
 @import '~bootstrap/scss/bootstrap';
+footer {
+  height: 50px;
+  width: 100%;
+  background-color: rgba(66, 63, 63, 0.975) !important;
+}
+  
